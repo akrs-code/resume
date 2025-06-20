@@ -5,7 +5,7 @@ This is a responsive, print-ready resume built with **HTML** and **CSS**. The la
 ## Live Demo
 
 View the live version here:  
-👉 [https://yourusername.github.io/abdul-khaliq-resume](https://yourusername.github.io/abdul-khaliq-resume)
+👉 [https://akrs-code.github.io/resume/](https://akrs-code.github.io/resume/)
 
 ## 🛠️ Built With
 
@@ -48,7 +48,3 @@ When printing:
 🙋‍♂️ Author
 Abdul-Khaliq R. Solaiman
 📫 Email: khaliq.business16@gmail.com
-🔗 LinkedIn
-2. Open `index.html` in your browser  
-3. Customize with your own info
-
