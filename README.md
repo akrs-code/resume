@@ -46,5 +46,5 @@ When printing:
 - Disable headers and footers in print settings
 
 🙋‍♂️ Author
-Abdul-Khaliq R. Solaiman
+Abdul-Khaliq R. Solaiman 
 📫 Email: khaliq.business16@gmail.com
